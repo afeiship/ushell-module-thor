@@ -2,7 +2,9 @@
 ## path:
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
+source $ROOT_PATH/functions.sh;
+
 # alias xxx='cd -';
-alias tmpl='thor thor_cli:sync_yo_boilerplate:sync '
+alias tmpl='_tmpl'
 
 unset ROOT_PATH;
