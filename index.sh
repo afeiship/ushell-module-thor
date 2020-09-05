@@ -2,9 +2,6 @@
 ## path:
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
-source $ROOT_PATH/functions.sh;
-
-# alias xxx='cd -';
-alias tmpl='_tmpl'
+alias tmpl='$ROOT_PATH/functions/tmpl.sh'
 
 unset ROOT_PATH;
