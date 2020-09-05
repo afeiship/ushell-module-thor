@@ -2,6 +2,6 @@
 ## path:
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
-alias tmpl='$ROOT_PATH/functions/tmpl.sh'
+alias tmpl="$ROOT_PATH/functions/tmpl.sh"
 
 unset ROOT_PATH;
