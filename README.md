@@ -7,7 +7,7 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-thor
+npm i -S @jswork/ushell-module-thor
 ```
 
 ## license

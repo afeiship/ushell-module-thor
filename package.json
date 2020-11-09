@@ -1,6 +1,6 @@
 {
-  "name": "@feizheng/ushell-module-thor",
-  "version": "1.0.3",
+  "name": "@jswork/ushell-module-thor",
+  "version": "1.0.0",
   "description": "Ushell module for thor.",
   "main": "index.sh",
   "repository": {
@@ -9,9 +9,10 @@
   },
   "keywords": [
     "ushell",
-    "unix",
-    "shell",
-    "ushell-module-thor"
+    "module",
+    "thor",
+    "template",
+    "tmpl"
   ],
   "license": "MIT",
   "bugs": {
